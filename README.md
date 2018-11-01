@@ -1,5 +1,5 @@
 # senticle 
-##파일 설명
+## 파일 설명
 > 데이터는 'bigkinds'에서 수집한 SK하이닉스 기사와 POSCO 기사 
 > python 3 
 
